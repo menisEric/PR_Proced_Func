@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\prProcedimientosyFunsiones\bin\Debug\prProcedimientosyFunsiones.exe.config
+C:\Users\User\source\repos\prProcedimientosyFunsiones\bin\Debug\prProcedimientosyFunsiones.exe
+C:\Users\User\source\repos\prProcedimientosyFunsiones\bin\Debug\prProcedimientosyFunsiones.pdb
+C:\Users\User\source\repos\prProcedimientosyFunsiones\obj\Debug\prProcedimientosyFunsiones.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prProcedimientosyFunsiones\obj\Debug\prProcedimientosyFunsiones.Form1.resources
+C:\Users\User\source\repos\prProcedimientosyFunsiones\obj\Debug\prProcedimientosyFunsiones.Properties.Resources.resources
+C:\Users\User\source\repos\prProcedimientosyFunsiones\obj\Debug\prProcedimientosyFunsiones.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prProcedimientosyFunsiones\obj\Debug\prProcedimientosyFunsiones.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prProcedimientosyFunsiones\obj\Debug\prProcedimientosyFunsiones.exe
+C:\Users\User\source\repos\prProcedimientosyFunsiones\obj\Debug\prProcedimientosyFunsiones.pdb
